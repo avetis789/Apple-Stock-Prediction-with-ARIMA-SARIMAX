@@ -44,6 +44,9 @@ Weak Points/Shortcomings:
 Error Rate: The model has a 9% error rate in variance less than 50 cents.
 Recommendation Accuracy: The model's buy/sell recommendations are less accurate when the price change difference is minimal.
 
+Links:
+Link to the slide deck - https://docs.google.com/presentation/d/1NdUQRKTGxs8M7aAfOCnBynRuHH8Y9zSQ/edit?usp=sharing&ouid=104559912756912818434&rtpof=true&sd=true
+
 Conclusion:
 Overall, the model performs well, explaining almost 89% of the variance in daily closing prices. The 9% error rate is considered insignificant for day traders following daily recommendations.
 
